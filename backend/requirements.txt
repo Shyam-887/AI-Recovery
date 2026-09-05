@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-multipart
+email-validator
+sqlalchemy>=2.0
+asyncpg
+psycopg[binary]
+alembic
+celery
+redis
+python-jose[cryptography]
